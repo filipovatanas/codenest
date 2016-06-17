@@ -1,0 +1,17 @@
+.zmcss
+{
+	width:200px;
+	float:left;
+	display:inline-block;
+	color:#000000;
+	font-size:14px;
+}
+.zmcss2
+{
+	margin-left:200px;
+}
+
+.zmcss2 input
+{
+	width:300px;
+}

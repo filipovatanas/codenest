@@ -1,0 +1,486 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Storto\n"
+"POT-Creation-Date: 2016-01-07 11:08+0100\n"
+"PO-Revision-Date: 2016-01-07 11:09+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:27
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: archive.php:21
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+#: archive.php:24
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: archive.php:27
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: archive.php:30
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: archive.php:33
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:36
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:39
+msgid "Asides"
+msgstr ""
+
+#: archive.php:42
+msgid "Galleries"
+msgstr ""
+
+#: archive.php:45
+msgid "Images"
+msgstr ""
+
+#: archive.php:48
+msgid "Videos"
+msgstr ""
+
+#: archive.php:51
+msgid "Quotes"
+msgstr ""
+
+#: archive.php:54
+msgid "Links"
+msgstr ""
+
+#: archive.php:57
+msgid "Statuses"
+msgstr ""
+
+#: archive.php:60
+msgid "Audios"
+msgstr ""
+
+#: archive.php:63
+msgid "Chats"
+msgstr ""
+
+#: archive.php:66
+msgid "Archives"
+msgstr ""
+
+#: comments.php:28
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:39
+msgid "Reply"
+msgstr ""
+
+#: comments.php:46
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:47
+msgid "<i class=\"fa spaceRight fa-angle-double-left\"></i>Older Comments"
+msgstr ""
+
+#: comments.php:48
+msgid "Newer Comments<i class=\"fa spaceLeft fa-angle-double-right\"></i>"
+msgstr ""
+
+#: comments.php:58
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:67
+msgid "Name *"
+msgstr ""
+
+#: comments.php:68
+msgid "Email *"
+msgstr ""
+
+#: comments.php:69
+msgid "Website"
+msgstr ""
+
+#: comments.php:71
+msgid " Required fields are marked "
+msgstr ""
+
+#: comments.php:75
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:76
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: comments.php:77
+msgid "Your email address will not be published."
+msgstr ""
+
+#: comments.php:78
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:79
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:80
+msgid "Cancel reply"
+msgstr ""
+
+#: comments.php:81
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:82
+msgid "Comment *"
+msgstr ""
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-page.php:25 content-single.php:30 content.php:32
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:33 content-search.php:37 content-single.php:68
+#: content.php:39
+msgid "Edit"
+msgstr ""
+
+#: content-search.php:26 content-single.php:21 content.php:22
+msgid "Leave a comment"
+msgstr ""
+
+#: content-search.php:26 content-single.php:21 content.php:22
+msgid "1 Comment"
+msgstr ""
+
+#: content-search.php:26 content-single.php:21 content.php:22
+msgid "% Comments"
+msgstr ""
+
+#: content-search.php:39 content.php:41
+msgid "Read More"
+msgstr ""
+
+#: footer.php:20
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:20
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:22
+#, php-format
+msgid "%1$s by %2$s."
+msgstr ""
+
+#: functions.php:54
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:89
+msgid "Sidebar"
+msgstr ""
+
+#: header.php:43
+msgid "Facebook"
+msgstr ""
+
+#: header.php:46
+msgid "Twitter"
+msgstr ""
+
+#: header.php:49
+msgid "Google Plus"
+msgstr ""
+
+#: header.php:52
+msgid "Linkedin"
+msgstr ""
+
+#: header.php:55
+msgid "Instagram"
+msgstr ""
+
+#: header.php:58
+msgid "YouTube"
+msgstr ""
+
+#: header.php:61
+msgid "Pinterest"
+msgstr ""
+
+#: header.php:64
+msgid "Tumblr"
+msgstr ""
+
+#: header.php:67
+msgid "VK"
+msgstr ""
+
+#: header.php:76
+msgid "Type and hit enter..."
+msgstr ""
+
+#: header.php:81
+msgid "Select a page..."
+msgstr ""
+
+#: inc/customizer.php:38
+msgid "Demo Gigante Theme"
+msgstr ""
+
+#: inc/customizer.php:39 inc/storto-dynamic.php:164
+msgid "Get Gigante Theme"
+msgstr ""
+
+#: inc/extras.php:64
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/storto-dynamic.php:21
+msgid "Primary Color "
+msgstr ""
+
+#: inc/storto-dynamic.php:27
+msgid "Link Color "
+msgstr ""
+
+#: inc/storto-dynamic.php:58
+msgid "Social Icons"
+msgstr ""
+
+#: inc/storto-dynamic.php:67
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/storto-dynamic.php:72
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/storto-dynamic.php:77
+msgid "Google Plus URL"
+msgstr ""
+
+#: inc/storto-dynamic.php:82
+msgid "Linkedin URL"
+msgstr ""
+
+#: inc/storto-dynamic.php:87
+msgid "Instagram URL"
+msgstr ""
+
+#: inc/storto-dynamic.php:92
+msgid "YouTube URL"
+msgstr ""
+
+#: inc/storto-dynamic.php:97
+msgid "Pinterest URL"
+msgstr ""
+
+#: inc/storto-dynamic.php:102
+msgid "Tumblr URL"
+msgstr ""
+
+#: inc/storto-dynamic.php:107
+msgid "VK URL"
+msgstr ""
+
+#: inc/storto-dynamic.php:142
+msgid "Show Search Button"
+msgstr ""
+
+#: inc/storto-dynamic.php:156
+msgid "Get Gigante WP Theme for only"
+msgstr ""
+
+#: inc/storto-dynamic.php:161
+msgid "Watch the demo"
+msgstr ""
+
+#: inc/storto-dynamic.php:168
+msgid "Advanced Theme Options"
+msgstr ""
+
+#: inc/storto-dynamic.php:169
+msgid "Logo Upload"
+msgstr ""
+
+#: inc/storto-dynamic.php:170
+msgid "Choose sidebar position"
+msgstr ""
+
+#: inc/storto-dynamic.php:171
+msgid "Font switcher"
+msgstr ""
+
+#: inc/storto-dynamic.php:172
+msgid "Loading Page"
+msgstr ""
+
+#: inc/storto-dynamic.php:173
+msgid "Unlimited Colors and Skin"
+msgstr ""
+
+#: inc/storto-dynamic.php:174
+msgid "Post views counter"
+msgstr ""
+
+#: inc/storto-dynamic.php:175
+msgid "Post format"
+msgstr ""
+
+#: inc/storto-dynamic.php:176
+msgid "7 Shortcodes"
+msgstr ""
+
+#: inc/storto-dynamic.php:177
+msgid "12 Exclusive Widgets"
+msgstr ""
+
+#: inc/storto-dynamic.php:178
+msgid "Related Posts Box"
+msgstr ""
+
+#: inc/storto-dynamic.php:179
+msgid "Information About Author Box"
+msgstr ""
+
+#: inc/storto-dynamic.php:180
+msgid "And much more..."
+msgstr ""
+
+#: inc/storto-dynamic.php:186
+msgid "More features? Upgrade to PRO"
+msgstr ""
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:25
+msgid ""
+"<span class=\"meta-nav\"><i class=\"fa spaceRight fa-angle-double-left\"></"
+"i></span>Older posts"
+msgstr ""
+
+#: inc/template-tags.php:29
+msgid ""
+"Newer posts<span class=\"meta-nav\"><i class=\"fa spaceLeft fa-angle-double-"
+"right\"></i></span>"
+msgstr ""
+
+#: inc/template-tags.php:52
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:55
+msgid "Previous post:"
+msgstr ""
+
+#: inc/template-tags.php:56
+msgid "Next Post:"
+msgstr ""
+
+#: inc/template-tags.php:82
+#, php-format
+msgctxt "post date"
+msgid "<i class=\"fa fa-clock-o spaceRight\"></i>%s"
+msgstr ""
+
+#: inc/template-tags.php:87
+#, php-format
+msgctxt "post author"
+msgid "<i class=\"fa fa-user spaceRight\"></i>%s"
+msgstr ""
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: sidebar.php:14
+msgid "Show sidebar..."
+msgstr ""
